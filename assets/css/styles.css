@@ -149,7 +149,9 @@ Cards 3D
 }
 
 footer {
-    font-size: 0.9em;
+    display: block;
+    margin: 15px auto;
+    font-size: 0.775em;
     text-align: center;
 }
 
