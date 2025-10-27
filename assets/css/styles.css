@@ -148,6 +148,11 @@ Cards 3D
     object-fit: cover;
 }
 
+footer {
+    font-size: 0.9em;
+    text-align: center;
+}
+
 /* =========================
 Responsividade
 ========================= */
